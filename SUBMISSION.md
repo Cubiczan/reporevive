@@ -67,7 +67,9 @@ The following improvements were made during the hacking period:
 
 ## 5. Demo Video
 
-**URL:** https://youtu.be/reporevive-demo *(upload before submission deadline)*
+**Committed file:** `assets/demo.mp4` (1920x1080, ~3 min 13 s, 30.5 MB)
+
+**URL:** https://youtu.be/reporevive-demo *(YouTube upload before submission deadline)*
 
 The video showcases:
 - Live repository analysis of a real abandoned repo
