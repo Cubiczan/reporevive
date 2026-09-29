@@ -56,7 +56,9 @@ The following improvements were made during the hacking period:
 
 ## 4. Pitch Deck
 
-**File:** `PITCH_DECK.html` (included in repository root)
+**Files:**
+- `PITCH_DECK.html` — interactive HTML deck (in repository root)
+- `PITCH_DECK.pdf` — print-ready PDF version (10 slides, 1280×720 / 16:9, ~508 KB)
 
 ### Sections covered:
 - **Team & Project Introduction** — Slide 1: RepoRevive v2.0 by icohangar-ops
